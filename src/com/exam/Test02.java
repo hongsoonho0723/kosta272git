@@ -4,4 +4,7 @@ public class Test02 {
 	void bb() {
 		System.err.println("세번째 커밋에서 수정");
 	}
+	void update() {
+		System.out.println("gitclone에서 수정");
+	}
 }
