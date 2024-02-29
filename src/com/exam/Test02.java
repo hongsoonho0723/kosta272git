@@ -7,4 +7,7 @@ public class Test02 {
 	void insert () {
 		System.out.println("eclipse git remoteClone에서 수정함");
 	}
+		void update() {
+		System.out.println("gitclone에서 수정");
+	}
 }
